@@ -1,0 +1,61 @@
+html {
+	background-color: #343434;
+}
+
+a {
+	text-decoration: inherit;
+}
+
+pre {
+	font-family: 'Roboto';
+	font-size: 17px;
+	color: #33FF5B;
+	text-shadow: 2px 2px #252525;
+}
+
+h1 {
+	font-family: 'Roboto';
+	font-size: 75px;
+	color: #33FF5B;
+	text-shadow: 3px 3px #252525;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #33FF5B;
+    margin: 1em 0;
+    padding: 0; 
+    box-shadow: 3px 3px #252525;
+}
+
+.normalButton {
+
+	color: #33FF5B;
+	text-shadow: 3px 3px #252525;
+
+	background-color: #343434;
+	border: solid 2px #33FF5B;
+	border-radius: 100px;
+	padding: 10px 60px;
+
+	font-family: 'Roboto';
+	font-size: 50px;
+	text-align: center;
+	box-shadow: 2px 2px #252525;
+}
+
+.normalButton:hover {
+
+	color: #343434;
+	text-shadow: 3px 3px #252525;
+
+	background-color: #33FF5B;
+	border: solid 2px #343434;
+}
+
+.classicButton {
+
+	color: #EEEEEE;
+}
