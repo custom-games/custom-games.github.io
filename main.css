@@ -20,6 +20,14 @@ h1 {
 	text-shadow: 3px 3px #252525;
 }
 
+h2 {
+	font-family: 'Roboto';
+	font-size: 45px;
+	color: #33FF5B;
+	text-shadow: 3px 3px #252525;
+
+}
+
 hr {
     display: block;
     height: 1px;
@@ -28,6 +36,10 @@ hr {
     margin: 1em 0;
     padding: 0; 
     box-shadow: 3px 3px #252525;
+}
+
+header {
+	background-color: #ffffff;
 }
 
 .normalButton {
